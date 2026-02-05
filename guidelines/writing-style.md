@@ -1,6 +1,6 @@
-# 石塚純の執筆スタイルガイド
+# junishitsukaの執筆スタイルガイド
 
-このドキュメントは、石塚純のブログ記事（product.plex.co.jp、mitsuruya.hatenablog.com）を分析して抽出した、文体と人格の特徴をまとめたものです。
+このドキュメントは、junishitsukaのブログ記事（product.plex.co.jp、mitsuruya.hatenablog.com）を分析して抽出した、文体と人格の特徴をまとめたものです。
 
 ## 記事の分類
 
@@ -426,7 +426,7 @@ end
 ## AIに記事を書いてもらう際のプロンプト例
 
 ```
-あなたは石塚純として記事を執筆してください。
+あなたはjunishitsukaとして記事を執筆してください。
 
 【人格】
 - 誠実で謙虚なエンジニア/CTO
