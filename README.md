@@ -14,7 +14,8 @@ Claude Codeを用いた記事執筆まで行う。
   - article-categories.md: 記事の分類（技術記事、組織記事、趣味記事）
   - article-templates.md: 記事タイプ別の執筆テンプレート
   - ai-prompts.md: AIに記事を書いてもらう際のプロンプト例
-- outlines: 記事のアウトライン（執筆予定の記事）
+- outlines: 執筆予定の記事のアウトライン（git管理外）
+- completed: 執筆した記事（git管理外）
 
 ## 記事のエクスポート方法
 
